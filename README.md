@@ -1,2 +1,2 @@
-# prueba-pull
-para practicar git pull y git fetch
+# prueba-pull-fetch
+for practice
